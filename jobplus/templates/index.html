@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% from "macros.html" import render_pagination %}
+
+{% block title %}首页{% endblock %}
+
+{% block body %}
+<div class="row">
+    <div class="thumbnail">
+        <a href="#">
+        </a>
+    </div>
+</div>
+{{ render_pagination(pagination, 'front.index') }}
+{% endblock %}

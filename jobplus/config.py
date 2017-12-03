@@ -1,7 +1,7 @@
 class BaseConfig(object):
     """配置基类"""
     SECRET_KEY = 'makesure to set a very secret key'
-    INDEX_PER_PAGE = 9
+    INDEX_PRE_PAGE = 9
     ADMIN_PRE_PAGE = 15
 
 
