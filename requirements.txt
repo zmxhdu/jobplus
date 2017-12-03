@@ -1,8 +1,8 @@
 Flask==0.12.2
 Flask-SQLALchemy==2.2
 flask-shell-ipython==0.3.0
-flask-migrate==2.1.1
-flask_login==0.4.0
+flask-Migrate==2.1.1
+flask-login==0.4.0
 flask-wtf==0.14.2
 wtforms==2.1
 werkzeug==0.12.2
